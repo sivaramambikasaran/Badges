@@ -14,4 +14,4 @@ Version: <a href="https://github.com/sivaramambikasaran/Badges"> <img border="0"
 
 arXix: <a href="https://arxiv.org/"> <img border="0" alt="License" src="https://img.shields.io/badge/math.NA-arXiv-red.svg" width="100" height="20"> </a>
 
-Code Quality: <a href="https://app.codacy.com/"> <img border="0" alt="Code Quality" src="https://img.shields.io/badge/math.NA-arXiv-red.svg" width="100" height="20"> </a>
+Code Quality: <a href="https://app.codacy.com/"> <img border="0" alt="Code Quality" src="https://img.shields.io/badge/code quality-A-brightgreen.svg" width="100" height="20"> </a>
