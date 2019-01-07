@@ -12,4 +12,6 @@ License: <a href="https://opensource.org/licenses/MIT"> <img border="0" alt="Lic
 
 Version: <a href="https://github.com/sivaramambikasaran/Badges"> <img border="0" alt="License" src="https://img.shields.io/badge/version-3-brightgreen.svg" width="100" height="20"> </a>
 
-arXiV: <a href="https://arxiv.org/"> <img border="0" alt="License" src="https://img.shields.io/badge/math.NA-arXiv-red.svg" width="100" height="20"> </a>
+arXix: <a href="https://arxiv.org/"> <img border="0" alt="License" src="https://img.shields.io/badge/math.NA-arXiv-red.svg" width="100" height="20"> </a>
+
+Code Quality: <a href="https://app.codacy.com/"> <img border="0" alt="Code Quality" src="https://img.shields.io/badge/math.NA-arXiv-red.svg" width="100" height="20"> </a>
