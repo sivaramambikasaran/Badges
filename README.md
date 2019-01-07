@@ -20,3 +20,6 @@ Code Quality: <a href="https://app.codacy.com/"> <img border="0" alt="Code Quali
 Stars: [![star this repo](http://githubbadges.com/star.svg?user=sivaramambikasaran&repo=HODLR&style=flat)](https://github.com/sivaramambikasaran/HODLR)
 
 Forks: [![fork this repo](http://githubbadges.com/fork.svg?user=sivaramambikasaran&repo=HODLR&style=flat)](https://github.com/sivaramambikasaran/HODLR/fork)
+
+[![Open Source](https://img.shields.io/badge/source-open-brightgreen.svg)](https://github.com/sivaramambikasaran/HODLR)
+[![PR Welcome](https://img.shields.io/badge/PR-welcome-brightgreen.svg)](http://makeapullrequest.com) 
