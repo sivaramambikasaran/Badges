@@ -21,5 +21,8 @@ Stars: [![star this repo](http://githubbadges.com/star.svg?user=sivaramambikasar
 
 Forks: [![fork this repo](http://githubbadges.com/fork.svg?user=sivaramambikasaran&repo=HODLR&style=flat)](https://github.com/sivaramambikasaran/HODLR/fork)
 
-[![Open Source](https://img.shields.io/badge/source-open-brightgreen.svg)](https://github.com/sivaramambikasaran/HODLR)
-[![PR Welcome](https://img.shields.io/badge/PR-welcome-brightgreen.svg)](http://makeapullrequest.com) 
+Open source: [![Open Source](https://img.shields.io/badge/source-open-brightgreen.svg)](https://github.com/sivaramambikasaran/HODLR)
+
+Open source: [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)    
+
+Pull requests: [![PR Welcome](https://img.shields.io/badge/PR-welcome-brightgreen.svg)](http://makeapullrequest.com) 
